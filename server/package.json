@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch --env-file .env src/server.js"
+    "dev": "tsx watch --env-file .env src/server.js",
+    "db:init": "npx prisma migrate dev",
+    "db:studio": "npx prisma studio"
   },
   "keywords": [],
   "author": "",
