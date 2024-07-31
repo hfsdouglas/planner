@@ -12,19 +12,18 @@
 
 ## Sobre
 
-<img src="./assets/trip.png" alt="create-trip" height="400px" />
-<img src="./assets/email.png" alt="email" height="400px" />
-<img src="./assets/list-activities.png" alt="list-activities" height="400px" />
-<img src="./assets/create-activity.png" alt="create-activity" height="400px" />
-<img src="./assets/list-links-participants.png" alt="list-links-participants" height="400px" />
-<img src="./assets/create-link.png" alt="create-link" height="400px" />
-
-</br>
-
 Plann.er é um aplicativo mobile para Android e iOS que facilita o planejamento de viagens em grupo, centralizando envio de convites por e-mail, organização de atividades e análise de sugestões através de links. Permite criar atividades durante o período da viagem, anexar links para comparações de serviços oferecendo uma uma interface amigável. Proporciona uma experiência colaborativa e eficiente para uma viagem memorável.
+
+![create-trip](./assets/trip.png)
+![email](./assets/email.png)
+![list-activities](./assets/list-activities.png)
+![create-activity](./assets/create-activity.png)
+![list-links-participants](./assets/list-links-participants.png)
+![create-link](./assets/create-link.png)
 
 ## Tecnologias Utilizadas
 ### Mobile
+
 <div style="display: flex; justify-content: between; gap: 8px; align-items: center; margin-bottom: 12px;">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*OwTgC3_fZg3lUg7Nc17F8Q.png" alt="Expo" height="24px"/>
     <img src="https://miro.medium.com/v2/resize:fit:1200/1*safAvjgR68qpQCreDTOcYA.png" alt="React Native" height="24px" />
@@ -35,6 +34,7 @@ Plann.er é um aplicativo mobile para Android e iOS que facilita o planejamento 
 </div>
 
 ### Server
+
 <div style="display: flex; justify-content: between; gap: 8px; align-items: center; margin-bottom: 12px;">
     <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="Node.js" height="48px" />
     <img src="https://github.com/fastify/graphics/raw/HEAD/fastify-landscape-outlined.svg" alt="Fastify" height="24px" />
